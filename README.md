@@ -4,13 +4,15 @@
 
 My anon name is nirlin, smart contract security researcher and a programmer at heart, I find bugs in contracts and learn and implement any technique that could be effective in making the future of web3 more secure.
 
+Apart from that I have a computing background and I love to to code.
+
 
 <!--I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.-->
 
 <!-- Profile Picture -->
 # 🏅 Achievements Across Multiple Contest Platforms
 
-The following numbers can be verified from he code4rena and sherlock leaderboard under my name 0xnirlin(sherlock), nirlin(c4), Bugbusters(Team with a friend) (Sherlock + c4).
+The following numbers can be verified from the code4rena and sherlock leaderboard under my name 0xnirlin(sherlock), nirlin(c4), Bugbusters(Team with a friend) (Sherlock + c4).
 
 Not including any accepted low findings, QA reports, and analysis reports here, only impactful findings. 
 
@@ -58,7 +60,7 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
 
-You can connect with us on:
+You can connect me at:
 
 - [0xNirlin](https://twitter.com/0xnirlin)
 
