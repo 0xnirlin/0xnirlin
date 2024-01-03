@@ -2,9 +2,19 @@
 <!-- Your Name and Introduction -->
 # 🎬 Hello, This is Nirlin - Smart Contract Security Researcher
 
-My anon name is nirlin, smart contract security researcher and a programmer at heart, I find bugs in contracts and learn and implement any technique that could be effective in making the future of web3 more secure.
+A proficient smart contract security researcher and programmer dedicated to enhancing the security of web3. Ranked 60th overall on Sherlock. With a strong foundation in JavaScript technologies (React, Next.js, Node.js) and a specific focus on Solidity, I aim to identify and resolve vulnerabilities, contributing to a safer blockchain ecosystem. Adept in collaborative environments and competitive settings as evidenced by achievements in various audit competitions.
 
-Apart from that I have a computing background and I love to to code.
+
+## Professional Experience
+Over the last 9 months, participated in contests on Code4rena and Sherlock, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
+Social Media Manager and Community Manager at Sherlock, engaging with the community and managing social media content to build and maintain a strong online presence.
+
+## Technical Skills
+- Languages: JavaScript, Solidity
+- Frameworks: React, Next.js, Node.js
+- Tools & Platforms: Foundry, Ethereum
+- Specialized Skills: Fuzzing in Foundry, Formal Verification with Halmos
+
 
 
 <!--I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.-->
@@ -12,7 +22,7 @@ Apart from that I have a computing background and I love to to code.
 <!-- Profile Picture -->
 # 🏅 Achievements Across Multiple Contest Platforms
 
-The following numbers can be verified from the code4rena and sherlock leaderboard under my name 0xnirlin(sherlock), nirlin(c4), Bugbusters(Team with a friend) (Sherlock + c4).
+The following numbers can be verified from the code4rena and Sherlock leaderboard under my name 0xnirlin(Sherlock), nirlin(c4), Bugbusters(Team with a friend) (Sherlock + c4).
 
 Not including any accepted low findings, QA reports, and analysis reports here, only impactful findings. 
 
@@ -33,6 +43,15 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 4.  Fourth overall in Unstoppable Contest on Sherlock - [Result Link](https://discord.com/channels/812037309376495636/1123628892536717472/1137765358447632496)
 5.  Fourth overall in Ondo Finance Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-09-ondo-finance#top)
 6.  Sixth overall in Axelar Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-07-axelar-network#top)
+
+## Personal Projects and Contributions
+The Proof of Concept (POC) for the recent thirdweb exploit: A simplified ERC20 version utilizing ERC2771 context and OpenZeppelin's Multicall, demonstrating the potential for an attacker to transfer anyone's tokens among other exploits.
+Participated in multiple contests and consistently ranked in the top 5, showcasing a strong understanding and skill set in smart contract security. [Repo Link](https://github.com/0xnirlin/Thirdweb-Exploit-POC)
+
+## Interests
+- Web3 Security
+- Blockchain Development
+- Zero Knowledge Proofs
 
 <!--# Hats Finance
 
@@ -57,12 +76,17 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 - [Issue 1](https://github.com/code-423n4/2023-06-lybra-findings/issues/484)
 - [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)
 
+## Education
+- Bachelor of Computer Science (Dropped out in 6th Semester)
+- FAST-National University of Computer and Emerging Sciences
+
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
 
 You can connect me at:
 
 - [0xNirlin](https://twitter.com/0xnirlin)
+- [Email](0xnirlin@gmail.com)
 
 
 
