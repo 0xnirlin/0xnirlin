@@ -77,7 +77,6 @@ Participated in multiple contests and consistently ranked in the top 5, showcasi
 - [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)
 
 ## Education
-- Bachelor of Computer Science (Dropped out in 6th Semester)
 - FAST-National University of Computer and Emerging Sciences
 
 <!-- How to Reach Me -->
