@@ -6,8 +6,10 @@ A proficient smart contract security researcher and programmer dedicated to enha
 
 
 ## Professional Experience
-Over the last 9 months, participated in contests on Code4rena and Sherlock, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
+- Over the last 9 months, participated in contests on Code4rena and Sherlock, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
 Social Media Manager and Community Manager at Sherlock, engaging with the community and managing social media content to build and maintain a strong online presence.
+
+- Yacademy Zk Fellow Block - 2
 
 ## Technical Skills
 - Languages: JavaScript, Solidity
