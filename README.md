@@ -6,10 +6,11 @@ A proficient smart contract security researcher and programmer dedicated to enha
 
 
 ## Professional Experience
-- Over the last 9 months, participated in contests on Code4rena and Sherlock, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
-Social Media Manager and Community Manager at Sherlock, engaging with the community and managing social media content to build and maintain a strong online presence.
+- Over a year of experience in smart contract security auditing, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
 
-- Yacademy Zk Fellow Block - 2
+- Content strategist at sherlock.
+
+- Yacademy Zk Fellow Block - 2 - Diving into security zero knowledge proof based protocols.
 
 ## Technical Skills
 - Languages: JavaScript, Solidity
@@ -30,7 +31,7 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 
 | Overall issues | High risk | Medium risk | 
 | ---------------| ----------| ------------| 
-| 61             | 21        |   40        |          
+| 71             | 25        |   46        |          
 
 **[Second position in secureum race-18](https://discord.com/channels/814328279468474419/927065287172427798/1112616229602070560)**
 
@@ -45,6 +46,16 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 4.  Fourth overall in Unstoppable Contest on Sherlock - [Result Link](https://discord.com/channels/812037309376495636/1123628892536717472/1137765358447632496)
 5.  Fourth overall in Ondo Finance Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-09-ondo-finance#top)
 6.  Sixth overall in Axelar Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-07-axelar-network#top)
+
+## Private and Team Engagements
+
+
+| Project                                             | Type                | Report SLOC | Chain                         |
+|-----------------------------------------------------|---------------------|-------------|-------------------------------|
+| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | Coming soon | Mainnet/L2                    |
+| [Abracadabra Money MIM-Swap](https://abracadabra.money/) | DEX                 | Coming soon | Blast                         |
+| [MEM Bridge](https://www.possumlabs.io/)           | Cross chain brdige                 | Coming soon | Mainnet/Optimism                           |
+
 
 ## Personal Projects and Contributions
 The Proof of Concept (POC) for the recent thirdweb exploit: A simplified ERC20 version utilizing ERC2771 context and OpenZeppelin's Multicall, demonstrating the potential for an attacker to transfer anyone's tokens among other exploits.
