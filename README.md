@@ -2,9 +2,6 @@
 <!-- Your Name and Introduction -->
 # 🎬 Hello, This is Nirlin - Smart Contract Security Researcher
 
-A proficient smart contract security researcher and programmer dedicated to enhancing the security of web3. Ranked 60th overall on Sherlock. With a strong foundation in JavaScript technologies (React, Next.js, Node.js) and a specific focus on Solidity, I aim to identify and resolve vulnerabilities, contributing to a safer blockchain ecosystem. Adept in collaborative environments and competitive settings as evidenced by achievements in various audit competitions.
-
-
 ## Professional Experience
 - Over a year of experience in smart contract security auditing, securing top 3 and top 5 positions in multiple contests across various domains including lending and borrowing, cross-chain bridges, insurance protocols, stable coins, and more. This consistent success demonstrates a broad and deep understanding of different blockchain technologies and problem-solving skills.
 
@@ -13,10 +10,9 @@ A proficient smart contract security researcher and programmer dedicated to enha
 - Yacademy Zk Fellow Block - 2 - Diving into security zero knowledge proof based protocols.
 
 ## Technical Skills
-- Languages: JavaScript, Solidity
-- Frameworks: React, Next.js, Node.js
+- Languages: Solidity, JS, C++
 - Tools & Platforms: Foundry, Ethereum
-- Specialized Skills: Fuzzing in Foundry, Formal Verification with Halmos
+- Specialized Skills: Fuzzing in Foundry, Formal Verification with Halmos (still learning these)
 
 
 
@@ -50,11 +46,16 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 ## Private and Team Engagements
 
 
-| Project                                             | Type                | Report SLOC | Chain                         |
-|-----------------------------------------------------|---------------------|-------------|-------------------------------|
-| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | Coming soon | Mainnet/L2                    |
-| [Abracadabra Money MIM-Swap](https://abracadabra.money/) | DEX                 | Coming soon | Blast                         |
-| [MEM Bridge](https://www.possumlabs.io/)           | Cross chain brdige                 | Coming soon | Mainnet/Optimism                           |
+## Private Engagements
+
+| Project                                             | Type                | Date           | Report                        |
+|-----------------------------------------------------|---------------------|----------------|-------------------------------|
+| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 | Coming soon                        |
+| [Abracadabra Money DEX](https://abracadabra.money/) With Guardians Audit | DEX                 | February, 2024 | Coming Soon                          |
+| [MEM Bridge](https://www.mem.tech/)                | Cross chain bridge  | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                    |
+| [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/ChadFinance-Final-Report.pdf)                   |
+| Zero g-fi                                         | Liquid Restaking Protocol    | April, 2024    | N/A                           |
+| [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    | Coming Soon                          |
 
 
 ## Personal Projects and Contributions
