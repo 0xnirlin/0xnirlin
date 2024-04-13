@@ -7,8 +7,6 @@
 
 - Content strategist at sherlock.
 
-- Yacademy Zk Fellow Block - 2 - Diving into security zero knowledge proof based protocols.
-
 ## Technical Skills
 - Languages: Solidity, JS, C++
 - Tools & Platforms: Foundry, Ethereum
