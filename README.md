@@ -54,6 +54,8 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 | [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/ChadFinance-Final-Report.pdf)                   |
 | Zero g-fi                                         | Liquid Restaking Protocol    | April, 2024    | N/A                           |
 | [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    | Coming Soon                          |
+| [MEM Bridge Second Round](https://mem.tech)      | EVM to MEM to AO Brdige   | April, 2024    | Coming Soon                          |
+
 
 
 ## Personal Projects and Contributions
