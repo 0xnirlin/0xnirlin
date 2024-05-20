@@ -8,9 +8,9 @@
 <!-- Profile Picture -->
 # 🏅 Achievements Across Multiple Platforms
 
-| Overall issues | High risk | Medium risk | 
+| Overall issues | Critical risk | Medium risk | 
 | ---------------| ----------| ------------| 
-| 71             | 25        |   46        |          
+| 173             | 72       |   101        |          
 
 **[Second position in secureum race-18](https://discord.com/channels/814328279468474419/927065287172427798/1112616229602070560)**
 
@@ -25,38 +25,32 @@
 | Zero g-fi                                         | Liquid Restaking Protocol    | April, 2024    | N/A                           |
 | [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    | Coming Soon                          |
 | [MEM Bridge Second Round](https://mem.tech)      | EVM to MEM to AO Brdige   | April, 2024    | Coming Soon                          |
-| [Wirex (WirePay)]     | Defi | April, 2024    | Coming Soon                          |
+| [Wirex (WirePay)]     | Defi | May, 2024    | Coming Soon                          |
+| Undisclosed    | Trading Bot Staking | May, 2024    | Coming Soon                          |
+
 
 ## ⚔️ Audit Competitions
 
-1.  Second Overall in KelpDao Contest on code4rena - [Result Link](https://discord.com/channels/810916927919620096/1171865604114882600/1183066714838147102)
-2.  Second overall in Aloe V2 Contest on Sherlock - [Result Link](https://discord.com/channels/812037309376495636/1150807984893591643/1169679544484114494)
-3.  Third overall in Hubble Exchange Contest on Sherlock - [Result Link](https://discord.com/channels/812037309376495636/1121092175216787507/1137761593137049641)
-4.  Fourth overall in Unstoppable Contest on Sherlock - [Result Link](https://discord.com/channels/812037309376495636/1123628892536717472/1137765358447632496)
-5.  Fourth overall in Ondo Finance Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-09-ondo-finance#top)
-6.  Sixth overall in Axelar Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-07-axelar-network#top)
+We have also demonstrated our competence in competitive contests. Some of our achievements include:
+
+1.  Second Overall in KelpDao Contest on code4rena 
+2.  Second overall in Aloe V2 Contest on Sherlock 
+3.  Third overall in Hubble Exchange Contest on Sherlock 
+4.  Fourth overall in Unstoppable Contest on Sherlock
+5.  Fourth overall in Ondo Finance Contest on Code4rena 
+6.  Sixth overall in Axelar Contest on Code4rena 
 
 ## Personal Projects and Contributions
+
 The Proof of Concept (POC) for the recent thirdweb exploit: A simplified ERC20 version utilizing ERC2771 context and OpenZeppelin's Multicall, demonstrating the potential for an attacker to transfer anyone's tokens among other exploits.
 Participated in multiple contests and consistently ranked in the top 5, showcasing a strong understanding and skill set in smart contract security. [Repo Link](https://github.com/0xnirlin/Thirdweb-Exploit-POC)
 
-## Interests
-- Web3 Security
-- Anything MOVE(Aptos, Sui, MovementLabs)
 
-<!--# Hats Finance
+## 📫 How to Reach Us
 
-## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |-->
+You can connect with us at:
 
-
-## 📫 How to Reach Me
-
-You can connect me at:
-
-- [0xNirlin](https://twitter.com/0xnirlin)
+- [Telegram](https://t.me/nirlinsec)
 - [Email](0xnirlin@gmail.com)
 
 
