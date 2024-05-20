@@ -1,10 +1,9 @@
 
 <!-- Your Name and Introduction -->
-# 🎬 Hello, This is Nirlin - Smart Contract Security Researcher
+# 🎬 NirlinSecurity
 
-## Professional Experience
-- As a solidity smart contract researcher I have audited projects that now hold more than $150 million combined in their protocols.
-
+## What we do
+- NirlinSecurity is a team of security researchers specializing in bug hunting, fuzzing, and invariant testing across multiple ecosystems including Solidity and Move. First in space to introduce tier-based pricing catering to small low budgets projects to large giants that want all-around security. 
 
 <!-- Profile Picture -->
 # 🏅 Achievements Across Multiple Platforms
