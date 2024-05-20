@@ -16,15 +16,15 @@
 
 ## Private Engagements
 
-| Project                                             | Type                | Date           | Report                        |
+| Project                                             | Type                | Date           |                   |
 |-----------------------------------------------------|---------------------|----------------|-------------------------------|
-| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 | Coming soon                        |
-| [Abracadabra Money DEX](https://abracadabra.money/) With Guardians Audit | DEX                 | February, 2024 | Coming Soon                          |
-| [MEM Bridge](https://www.mem.tech/)                | Cross chain bridge  | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                    |
-| [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/ChadFinance-Final-Report.pdf)                   |
-| Zero g-fi                                         | Liquid Restaking Protocol    | April, 2024    | N/A                           |
-| [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    | Coming Soon                          |
-| [MEM Bridge Second Round](https://mem.tech)      | EVM to MEM to AO Brdige   | April, 2024    | Coming Soon                          |
+| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 |                      |
+| [Abracadabra Money DEX](https://abracadabra.money/) With Guardians Audit | DEX                 | February, 2024 |                          |
+| [MEM Bridge](https://www.mem.tech/)                | Cross chain bridge  | March, 2024    |                     |
+| [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    |                    |
+| Zero g-fi                                         | Liquid Restaking Protocol    | April, 2024    |                        |
+| [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    |                         |
+| [MEM Bridge Second Round](https://mem.tech)      | EVM to MEM to AO Brdige   | April, 2024    |                        |
 | [Wirex (WirePay)]     | Defi | May, 2024    | Coming Soon                          |
 | Undisclosed    | Trading Bot Staking | May, 2024    | Coming Soon                          |
 
