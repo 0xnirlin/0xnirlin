@@ -26,7 +26,6 @@
 | [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    |                         |
 | [MEM Bridge Second Round](https://mem.tech)      | EVM to MEM to AO Brdige   | April, 2024    |                        |
 | [Wirex (WirePay)]     | Defi | May, 2024    |                           |
-| Undisclosed    | Trading Bot Staking | May, 2024    |                           |
 
 
 ## ⚔️ Audit Competitions
