@@ -1,9 +1,6 @@
 
 <!-- Your Name and Introduction -->
-# 🎬 NirlinSecurity
-
-## What we do
-- NirlinSecurity is a team of security researchers specializing in bug hunting, fuzzing, and invariant testing across multiple ecosystems including Solidity and Move. First in space to introduce tier-based pricing catering to small low budgets projects to large giants that want all-around security. 
+# 🎬 NirlinSecurity 
 
 <!-- Profile Picture -->
 # 🏅 Achievements Across Multiple Platforms    
@@ -26,7 +23,7 @@
 
 ## ⚔️ Audit Competitions
 
-We have also demonstrated our competence in competitive contests. Some of our achievements include:
+I have also demonstrated my competence in competitive contests. Some of my achievements include:
 
 1.  Second Overall in KelpDao Contest on code4rena 
 2.  Second overall in Aloe V2 Contest on Sherlock 
