@@ -40,7 +40,7 @@ Participated in multiple contests and consistently ranked in the top 5, showcasi
 
 ## 📫 How to Reach Us
 
-You can connect with us at:
+You can connect with me at:
 
 - [Telegram](https://t.me/nirlinsec)
 - [Email](0xnirlin@gmail.com)
