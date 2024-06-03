@@ -6,11 +6,7 @@
 - NirlinSecurity is a team of security researchers specializing in bug hunting, fuzzing, and invariant testing across multiple ecosystems including Solidity and Move. First in space to introduce tier-based pricing catering to small low budgets projects to large giants that want all-around security. 
 
 <!-- Profile Picture -->
-# 🏅 Achievements Across Multiple Platforms
-
-| Overall issues | Critical risk | Medium risk | 
-| ---------------| ----------| ------------| 
-| 173             | 72       |   101        |          
+# 🏅 Achievements Across Multiple Platforms    
 
 **[Second position in secureum race-18](https://discord.com/channels/814328279468474419/927065287172427798/1112616229602070560)**
 
