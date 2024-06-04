@@ -17,8 +17,11 @@
 | [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    |                    |
 | Zero g-fi                                         | Liquid Restaking Protocol    | April, 2024    |                        |
 | [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    |                         |
-| [MEM Bridge Second Round](https://mem.tech)      | EVM to MEM to AO Brdige   | April, 2024    |                        |
+| [MEM Bridge Second Round](https://mem.tech)      | EVM to MEM to AO Brdige   | May, 2024    |                        |
 | [Wirex (WirePay)]     | Defi | May, 2024    |                           |
+| Propher Bots Revenue Sharing Contracts     | Defi | Jun, 2024    |                           |
+
+
 
 
 ## ⚔️ Audit Competitions
