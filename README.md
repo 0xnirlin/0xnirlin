@@ -1,9 +1,25 @@
 
 <!-- Your Name and Introduction -->
-# 🎬 NirlinSecurity 
+# 🎬 Nirlin
+![Group 7](https://github.com/user-attachments/assets/6a5dbe90-7779-41ec-ba52-dfcab9e22c7c)
+
+Founder at Syntegrity.
+
+Syntegrity is the only auditing firm offering both solo and team audits with flexible pricing and niche-specific experts. (If you are a lending platform, only an auditor expert in lending products will audit your product; we don't believe in generalized auditors, especially for larger scopes.)
+
+
+Our auditors have collectively earned over $1 million across different open-source contest and bounty platforms, thus ensuring the highest possible quality for audits securing hundreds of millions in valuation for projects.
+
+## Benefits:
+
+1. Clients will get niche experts instead of generalized auditors.
+2. I lead solo and team audits on demand.
+3. Each auditor has a different level of skillset, so we mix and match to give the best possible combination at the best possible price.
+
+For more information, visit [Syntegrity](https://syntegrity.xyz "Visit Syntegrity")
 
 <!-- Profile Picture -->
-# 🏅 Achievements Across Multiple Platforms    
+# 🏅 Nirlin Personal Across Multiple Platforms(Not upto date, dm for more details at telegram at nirlinsec)
 
 **[Second position in secureum race-18](https://discord.com/channels/814328279468474419/927065287172427798/1112616229602070560)**
 
