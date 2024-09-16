@@ -1,9 +1,11 @@
+## Free Audit of upto 200 LOC in post-audit review if you book before 25 Septemeber. 
 
+[Get the Estimated Cost of Audit Here](https://syntegrity.xyz/estimate)
 <!-- Your Name and Introduction -->
 # 🎬 Nirlin
 ![Group 7](https://github.com/user-attachments/assets/6a5dbe90-7779-41ec-ba52-dfcab9e22c7c)
 
-Founder at Syntegrity.
+Founder at Syntegrity. 
 
 Syntegrity is the only auditing firm offering both solo and team audits with flexible pricing and niche-specific experts. (If you are a lending platform, only an auditor expert in lending products will audit your product; we don't believe in generalized auditors, especially for larger scopes.)
 
