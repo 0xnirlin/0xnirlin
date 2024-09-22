@@ -1,5 +1,3 @@
-## Free Audit of upto 200 LOC in post-audit review if you book before 25 Septemeber. 
-
 [Get the Estimated Cost of Audit Here](https://syntegrity.xyz/estimate)
 <!-- Your Name and Introduction -->
 # 🎬 Nirlin
