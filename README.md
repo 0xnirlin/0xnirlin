@@ -1,93 +1,269 @@
 [Get the Estimated Cost of Audit Here](https://syntegrity.xyz/estimate)
 <!-- Your Name and Introduction -->
-# 🎬 Nirlin
-![Group 7](https://github.com/user-attachments/assets/6a5dbe90-7779-41ec-ba52-dfcab9e22c7c)
+![Group 15 (3)](https://i.ibb.co/cyWVVSB/Group-15-4.jpg)
 
-Founder at Syntegrity. 
 
+# Syntegrity Lead by Nirlin
 Syntegrity is the only auditing firm offering both solo and team audits with flexible pricing and niche-specific experts. (If you are a lending platform, only an auditor expert in lending products will audit your product; we don't believe in generalized auditors, especially for larger scopes.)
 
 
-Our auditors have collectively earned over $1 million across different open-source contest and bounty platforms, thus ensuring the highest possible quality for audits securing hundreds of millions in valuation for projects.
 
-## Benefits:
 
+
+# Benefits:
+![Group 15](https://i.ibb.co/PmD6Pn7/Group-15.png)
+
+
+
+
+
+1. Before manual audit each codebase is run through [LightChaser Bot](https://lightchaser.online), cost for this is paid by Syntegrity and nothing is charged to end user. For 1 run light chaser costs $1000.
 1. Clients will get niche experts instead of generalized auditors.
-2. I lead solo and team audits on demand.
+2. Founder lead solo and team audits on demand.
 3. Each auditor has a different level of skillset, so we mix and match to give the best possible combination at the best possible price.
 
+
+
+
 For more information, visit [Syntegrity](https://syntegrity.xyz "Visit Syntegrity")
-
-# Syntegrity's Smart Contract Audit Process
-
-At Syntegrity, we provide a thorough smart contract audit service designed to ensure the security and reliability of blockchain-based projects. Our process is divided into three crucial stages:
-
-## 1. Pre-audit Review
-
-Our process begins with a comprehensive pre-audit review, setting the foundation for a robust security assessment.
-
-- **Automated Tool Analysis**: We employ cutting-edge automated tools to scan the codebase, identifying potential vulnerabilities and code quality issues.
-- **Manual Code Check**: Our experienced auditors perform an initial hands-on review, catching nuances that automated tools might miss.
-- **Code Quality Enhancement**: We focus on improving overall code quality, making it more readable, efficient, and maintainable.
-- **Easy Fix Identification**: Quick wins are identified and addressed, cleaning up the codebase before the deep dive.
-- **Audit Readiness**: This phase ensures your smart contract is prepared for the rigorous formal audit process.
-
-## 2. In-Depth Security Assessment
-
-The core of our service lies in our comprehensive manual security assessment. This phase involves a meticulous examination of your smart contract by Syntegrity's expert auditors.
-
-- **Manual Code Review**: Our skilled auditors perform a thorough, line-by-line analysis of your smart contract code.
-- **Vulnerability Discovery**: We aim to uncover any and all potential vulnerabilities that could compromise your contract's security or functionality.
-- **Logic Flaw Detection**: Beyond just code-level issues, we analyze the contract's logic to identify any flaws in its design or implementation.
-- **Best Practices Evaluation**: We assess your code against industry best practices and standards for smart contract development.
-- **Optimization Suggestions**: While focusing on security, we also provide recommendations for gas optimization and overall efficiency improvements.
-
-## 3. Risk Mitigation Effectiveness Review
-
-The final stage of our process focuses on verifying the effectiveness of implemented fixes and ensuring no new vulnerabilities have been introduced.
-
-- **Focused Review of Changes**: We conduct a targeted review of all code changes made in response to our initial findings.
-- **Regression Analysis**: We carefully examine the modified sections to ensure that fixes haven't introduced new bugs or vulnerabilities.
-- **Integration Verification**: We check how the changes integrate with the rest of the codebase to maintain overall integrity and functionality.
-- **Final Security Confirmation**: A final review is conducted to confirm the contract's security and readiness for deployment.
-
-Syntegrity's three-step process is designed to provide a comprehensive, in-depth security audit of your smart contract. By choosing Syntegrity, you're ensuring that your blockchain project is built on a foundation of security, efficiency, and reliability.
 
 [Ready to secure your smart contract? [Contact Syntegrity today on Telegram](https://t.me/nirlinsec) for a consultation!]
 
 
-<!-- Profile Picture -->
-# 🏅 Nirlin Personal Across Multiple Platforms(Not upto date, dm for more details at telegram at nirlinsec)
+# Private Engagements
+![MacBook Air - 1](https://i.ibb.co/QM29qBn/Group-15-2.jpg)
 
-**[Second position in secureum race-18](https://discord.com/channels/814328279468474419/927065287172427798/1112616229602070560)**
+| Project | Website | Report | Security Rating |
+|---------|---------|--------|-----------------|
+| Juicebox | https://juicebox.money/ | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/02-juicebox-eth-audit-report-v4.pdf) | 8/10 |
+| | | | |
+| Dein Finance | https://dein.fi | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/01-Dein-Finance.md) | 7/10 |
+| | | | |
+| Mem Bridge (EVM to AO Bridge) | https://decent.land | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/03-Mem-Bridge(Solidity%2BJs).md) | 7.5/10 |
+| | | | |
+| Mem Bridge (Solidity, JS, Lua) | https://decent.land | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/04-MEM-Bridge(Solidity%2BLua%2BJs).md) | 8.5/10 |
+| | | | |
+| Chad Finance | https://chadfinance.xyz | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/05-Chad-Finance-Report.md) | 9.5/10 |
+| | | | |
+| Prophet Bots | https://prophetbots.io | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/06-prophet-bot-audit-reports.pdf) | 7/10 |
+| | | | |
+| Seraph | https://www.seraph.game/#/main | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/07-Seraph-Report.md) | 10/10 |
+| | | | |
+| Zero Finance | https://zerog.finance/ | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/08-ZeroFinance.md) | 7.8/10 |
+| | | | |
+| Wirex | https://wirexapp.com/ | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/09-SUB7_REPORT_Wirex%20Contracts_20240604.pdf) | N/A |
+| | | | |
 
-## Private Engagements
-
-| Project                                             | Type                | Date           |                   |
-|-----------------------------------------------------|---------------------|----------------|-------------------------------|
-| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 |                      |
-| [Abracadabra Money DEX](https://abracadabra.money/) With Guardians Audit | DEX                 | February, 2024 |                          |
-| [MEM Bridge](https://www.mem.tech/)                | Cross chain bridge  | March, 2024    |                     |
-| [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    |                    |
-| Zero g-fi                                         | Liquid Restaking Protocol    | April, 2024    |                        |
-| [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    |                         |
-| [MEM Bridge Second Round](https://mem.tech)      | EVM to MEM to AO Brdige   | May, 2024    |                        |
-| [Wirex (WirePay)]     | Defi | May, 2024    |                           |
-| Propher Bots Revenue Sharing Contracts     | Defi | Jun, 2024    |                           |
 
 
+#  ⚔️ Audit Competitions Wins
 
 
-## ⚔️ Audit Competitions
+![Group 12 (2)](https://gist.github.com/user-attachments/assets/b4255111-8268-4e7f-8f15-2c0079f8142f)
 
-I have also demonstrated my competence in competitive contests. Some of my achievements include:
+| Contest | Platform | Rank |
+|:-------:|:--------:|:----:|
+| Chainlink | Code4rena | 🥇 1st |
+| | | |
+| | | |
+| | | |
+| KelpDao | Code4rena | 🥈 2nd |
+| | | |
+| | | |
+| | | |
+| Aloe V2 | Sherlock | 🥈 2nd |
+| | | |
+| | | |
+| | | |
+| Mello Modular LRT | Sherlock | 🥈 2nd |
+| | | |
+| | | |
+| | | |
+| Napier Finance | Sherlock | 🥈 2nd |
+| | | |
+| | | |
+| | | |
+| Hubble Exchange | Sherlock | 🥉 3rd |
+| | | |
+| | | |
+| | | |
+| Unstoppable | Sherlock | 4th |
+| | | |
+| | | |
+| | | |
+| Ondo Finance | Code4rena | 4th |
+| | | |
+| | | |
+| | | |
+| DYAD | Code4rena | 4th |
+| | | |
+| | | |
+| | | |
+| Axelar | Code4rena | 6th |
+| | | |
+| | | |
+| | | |
+*These achievements demonstrate my expertise in identifying critical vulnerabilities and providing valuable insights across various blockchain projects.*
 
-1.  Second Overall in KelpDao Contest on code4rena 
-2.  Second overall in Aloe V2 Contest on Sherlock 
-3.  Third overall in Hubble Exchange Contest on Sherlock 
-4.  Fourth overall in Unstoppable Contest on Sherlock
-5.  Fourth overall in Ondo Finance Contest on Code4rena 
-6.  Sixth overall in Axelar Contest on Code4rena 
+
+
+
+
+
+
+
+
+![Group 12 (1)](https://gist.github.com/user-attachments/assets/476bc8fa-3094-47b6-b28b-f02309cf85c9)
+
+# 📊 Contest Findings
+
+# Dopex Findings
+
+#### High Severity
+
+1. [The settle feature will be broken if attacker arbitrarily transfer collateral tokens to the PerpetualAtlanticVaultLP](https://code4rena.com/reports/2023-08-dopex)
+
+#### Medium Severity
+
+1. [Change of `fundingDuration` causes "time travel" of `PerpetualAtlanticVault.nextFundingPaymentTimestamp()`](https://code4rena.com/reports/2023-08-dopex)
+
+2. [User can avoid paying high premium price by correctly timing his bond call](https://code4rena.com/reports/2023-08-dopex)
+
+3. [Inaccurate swap amount calculation in ReLP leads to stuck tokens and lost liquidity](https://code4rena.com/reports/2023-08-dopex)
+
+#### Analysis
+
+Grade A analysis of protocol
+
+# Rubicon Findings
+
+#### High Severity
+
+1. One user can drain all the rewards from the bathBuddy
+
+2. User can do an first deposit inflation attack on bathToken and can take away all the shares and rewards too.
+
+3. Reward vesting formula is wrongly implemented and lead to wrong and unevenly distribution of rewards
+
+4. Using `batchOffer()` and `batchQuote()` functions malicious user can disrupt the whole order book in his benefit and can drain the whole contract balance.
+
+5. Buy function transfers the assets to zero address for the offer where owner and recipient are both zero
+
+#### Medium Severity
+
+1. Wrong use of block.number on optimism leads to wrong interest calculations and user may end up paying alot of interest or unable to close leverage position.
+
+2. No deadline parameter in `sellAllAmount()` and `buyAllAmount()` functions
+
+# Axelar Findings
+
+#### Medium Severity
+
+1. [Interchain token transfer can be dossed due to flow limit](https://code4rena.com/reports/2023-07-axelar)
+
+# Gitcoin Allo V2 Findings
+
+#### High Severity
+
+1. [`recipientsCounter` should start from 1 in `DonationVotingMerkleDistributionBaseStrategy`](https://github.com/sherlock-audit/2023-09-Gitcoin-judging)
+
+2. [`Registry.sol` generate clone `Anchor.sol` never work. Profile owner cannot use their `Anchor` wallet](https://github.com/sherlock-audit/2023-09-Gitcoin-judging)
+
+#### Medium Severity
+
+1. [The `RFPSimpleStrategy._registerRecipient()` does not work when the strategy was created using the `useRegistryAnchor=true` causing that nobody can register to the pool](https://github.com/sherlock-audit/2023-09-Gitcoin-judging)
+
+2. [CREATE3 is not available in the zkSync Era.](https://github.com/sherlock-audit/2023-09-Gitcoin-judging)
+
+3. [Anchor contract is unable to receive NFTs of any kind](https://github.com/sherlock-audit/2023-09-Gitcoin-judging)
+
+# Ondo Finance Findings
+#### Medium Severity
+
+1. [All bridged funds will be lost for the users using the account abstraction wallet](https://code4rena.com/reports/2023-09-ondo)
+
+# ENS Findings
+
+#### Medium Severity
+
+1. [Some tokens enable the direct draining of all approved `ERC20Votes` tokens](https://code4rena.com/reports/2023-10-ens)
+
+#Y2k Finance Findings
+
+#### High Severity
+
+1. [Funds can be stolen because of incorrect update to `ownerToRollOverQueueIndex` for existing rollovers](https://www.google.com/search?q=y2k+finance+report+sherlock&oq=y2k+finance+report+sherlock&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ2MjNqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)
+
+#### Medium Severity
+
+1. [ControllerPeggedAssetV2: outdated price may be used which can lead to wrong depeg events](https://www.google.com/search?q=y2k+finance+report+sherlock&oq=y2k+finance+report+sherlock&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ2MjNqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)
+
+2. [ControllerPeggedAssetV2: `triggerEndEpoch` function can be called even if epoch is null epoch leading to loss of funds](https://www.google.com/search?q=y2k+finance+report+sherlock&oq=y2k+finance+report+sherlock&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ2MjNqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)
+
+3. [VaultFactoryV2#changeTreasury misconfigures the vault](https://www.google.com/search?q=y2k+finance+report+sherlock&oq=y2k+finance+report+sherlock&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ2MjNqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)
+
+# Footium Findings
+
+#### Medium Severity
+
+1. [Users might lose funds as `claimERC20Prize()` doesn't revert for no-revert-on-transfer tokens](https://github.com/sherlock-audit/2023-04-footium-judging)
+
+# IronSide Findings
+#### Medium Severity
+
+1. [Vulnerability not specified](https://github.com/sherlock-audit/2023-05-ironbank-judging)
+
+2. [PriceOracle will use the wrong price if the Chainlink registry returns price outside min/max range](https://github.com/sherlock-audit/2023-05-ironbank-judging)
+
+3. [getPriceFromChainlink() doesn't check If Arbitrum sequencer is down in Chainlink feeds](https://github.com/sherlock-audit/2023-05-ironbank-judging)
+
+# USSD Findings
+
+#### High Severity
+
+1. [Price calculation susceptible to flashloan exploits](https://github.com/sherlock-audit/2023-05-USSD-judging)
+
+2. [Not using slippage parameter or deadline while swapping on UniswapV3](https://github.com/sherlock-audit/2023-05-USSD-judging)
+
+3. [Lack of access control for `mintRebalancer()` and `burnRebalancer()`](https://github.com/sherlock-audit/2023-05-USSD-judging)
+
+#### Medium Severity
+
+1. [Calls to Oracles don't check for stale prices](https://github.com/sherlock-audit/2023-05-USSD-judging)
+
+2. [Risk of Incorrect Asset Pricing by StableOracle in Case of Underlying Aggregator Reaching minAnswer](https://github.com/sherlock-audit/2023-05-USSD-judging)
+
+3. [Lack of Redeem Feature](https://github.com/sherlock-audit/2023-05-USSD-judging)
+
+# Index Coop Findings
+
+#### Medium Severity
+
+1. [No validation to ensure the arbitrum sequencer is down](https://github.com/sherlock-audit/2023-05-Index-judging)
+
+2. [Chainlink price feed is `deprecated`, not sufficiently validated and can return `stale` prices](https://github.com/sherlock-audit/2023-05-Index-judging)
+
+
+# Unstoppable Findings
+
+#### High Severity
+
+1. [Vault: `_update_debt` does not accrue interest](https://github.com/sherlock-audit/2023-06-unstoppable-judging)
+
+2. [Adversary manipulate the middle path when calling `execute_dca_order`, resulting user loss, benefiting the attacker](https://github.com/sherlock-audit/2023-06-unstoppable-judging)
+
+3. [Interested calculated is amplified by multiple of 1000 in `_debt_interest_since_last_update`](https://github.com/sherlock-audit/2023-06-unstoppable-judging)
+
+
+# Hubble Exchange Findings
+#### Medium Severity
+
+1. [User will be forced liquidated](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging)
+
+2. [No `minAnswer/maxAnswer` Circuit Breaker Checks while Querying Prices in Oracle.sol](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging)
+
+3. [`Chainlink.latestRoundData()` may return stale results](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging)
+
 
 ## Personal Projects and Contributions
 
@@ -102,26 +278,8 @@ You can connect with me at:
 - [Telegram](https://t.me/nirlinsec)
 - [Email](0xnirlin@gmail.com)
 
-
-
 <!-- Footer -->
 ---
 <p align="center">
   <!-- Add your other social media links or website here -->
 </p>
-
-
-<!--
-**Nabeel-javaid/Nabeel-javaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
