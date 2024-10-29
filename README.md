@@ -1,33 +1,10 @@
-[Get the Estimated Cost of Audit Here](https://syntegrity.xyz/estimate)
+
 <!-- Your Name and Introduction -->
 ![Group 15 (3)](https://i.ibb.co/cyWVVSB/Group-15-4.jpg)
 
 
-# Syntegrity Lead by Nirlin
-Syntegrity is the only auditing firm offering both solo and team audits with flexible pricing and niche-specific experts. (If you are a lending platform, only an auditor expert in lending products will audit your product; we don't believe in generalized auditors, especially for larger scopes.)
-
-
-
-
-
-# Benefits:
-![Group 15](https://i.ibb.co/PmD6Pn7/Group-15.png)
-
-
-
-
-
-1. Before manual audit each codebase is run through [LightChaser Bot](https://lightchaser.online), cost for this is paid by Syntegrity and nothing is charged to end user. For 1 run light chaser costs $1000.
-1. Clients will get niche experts instead of generalized auditors.
-2. Founder lead solo and team audits on demand.
-3. Each auditor has a different level of skillset, so we mix and match to give the best possible combination at the best possible price.
-
-
-
-
 For more information, visit [Syntegrity](https://syntegrity.xyz "Visit Syntegrity")
 
-[Ready to secure your smart contract? [Contact Syntegrity today on Telegram](https://t.me/nirlinsec) for a consultation!]
 
 
 # Private Engagements
@@ -75,14 +52,6 @@ For more information, visit [Syntegrity](https://syntegrity.xyz "Visit Syntegrit
 | | | |
 | | | |
 | | | |
-| Mello Modular LRT | Sherlock | 🥈 2nd |
-| | | |
-| | | |
-| | | |
-| Napier Finance | Sherlock | 🥈 2nd |
-| | | |
-| | | |
-| | | |
 | Hubble Exchange | Sherlock | 🥉 3rd |
 | | | |
 | | | |
@@ -92,10 +61,6 @@ For more information, visit [Syntegrity](https://syntegrity.xyz "Visit Syntegrit
 | | | |
 | | | |
 | Ondo Finance | Code4rena | 4th |
-| | | |
-| | | |
-| | | |
-| DYAD | Code4rena | 4th |
 | | | |
 | | | |
 | | | |
