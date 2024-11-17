@@ -1,12 +1,5 @@
 
 <!-- Your Name and Introduction -->
-![Group 15 (3)](https://i.ibb.co/cyWVVSB/Group-15-4.jpg)
-
-
-For more information, visit [Syntegrity](https://syntegrity.xyz "Visit Syntegrity")
-
-
-
 # Private Engagements
 ![MacBook Air - 1](https://i.ibb.co/QM29qBn/Group-15-2.jpg)
 
