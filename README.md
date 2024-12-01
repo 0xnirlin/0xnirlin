@@ -5,7 +5,7 @@
 ## Private Engagements
 ![MacBook Air - 1](https://i.ibb.co/QM29qBn/Group-15-2.jpg)
 
-| Project | Website | Report | Security Rating | -
+| Project | Website | Report | Security Rating | 
 |---------|---------|--------|-----------------|
 | Wirex Part 2 | [Wirex](https://wirexapp.com/) | Coming Soon | 9/10 |
 | | | | |
