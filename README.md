@@ -7,6 +7,8 @@
 
 | Project | Website | Report | Security Rating |
 |---------|---------|--------|-----------------|
+| Juicebox V4 Round 2 | https://juicebox.money/ | Coming Soon | 8/10 |
+
 | Juicebox | https://juicebox.money/ | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/02-juicebox-eth-audit-report-v4.pdf) | 8/10 |
 | | | | |
 | Dein Finance | https://dein.fi | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/01-Dein-Finance.md) | 7/10 |
