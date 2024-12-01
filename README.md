@@ -37,8 +37,6 @@
 #  ⚔️ Audit Competitions Wins
 
 
-![Group 12 (2)](https://gist.github.com/user-attachments/assets/b4255111-8268-4e7f-8f15-2c0079f8142f)
-
 | Contest | Platform | Rank |
 |:-------:|:--------:|:----:|
 | Chainlink | Code4rena | 🥇 1st |
@@ -75,11 +73,6 @@
 
 
 
-
-
-
-
-![Group 12 (1)](https://gist.github.com/user-attachments/assets/476bc8fa-3094-47b6-b28b-f02309cf85c9)
 
 # 📊 Contest Findings
 
