@@ -1,6 +1,8 @@
-
+# Solo Smart Contract Auditor
+## Certified from Uniswap
+### 200 Million + held in audited smart contracts
 <!-- Your Name and Introduction -->
-# Private Engagements
+## Private Engagements
 ![MacBook Air - 1](https://i.ibb.co/QM29qBn/Group-15-2.jpg)
 
 | Project | Website | Report | Security Rating |
