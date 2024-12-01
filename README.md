@@ -7,6 +7,8 @@
 
 | Project | Website | Report | Security Rating |
 |---------|---------|--------|-----------------|
+| Humanity Protocol | https://www.humanity.org/ | Coming Soon | 9/10 |
+
 | Juicebox V4 Round 2 | https://juicebox.money/ | Coming Soon | 8/10 |
 | | | | |
 | Juicebox | https://juicebox.money/ | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/02-juicebox-eth-audit-report-v4.pdf) | 8/10 |
