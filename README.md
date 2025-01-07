@@ -1,6 +1,8 @@
 # Solo Smart Contract Auditor
-## Certified from Uniswap
-### 200 Million + in TVL saved 
+## Certified from Uniswap 
+[On-chain NFT Certficate Link](https://opensea.io/assets/matic/0x483189819b48cf9275d92d33ea07d723498413ee/54)
+![5850d099b265ec601b5f9da309d6ba50 (1)](https://github.com/user-attachments/assets/6e56210d-842a-48b0-aa18-e885ef153b18)
+
 <!-- Your Name and Introduction -->
 ## Private Engagements
 ![MacBook Air - 1](https://i.ibb.co/QM29qBn/Group-15-2.jpg)
