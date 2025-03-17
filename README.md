@@ -1,17 +1,23 @@
-# Smart Contract Security Auditor
+# Every Thing Blockchain | Solana Turbine Graduate | Uniswap Certified
 ## Certified from Uniswap 
 [On-chain NFT Certficate Link](https://opensea.io/assets/matic/0x483189819b48cf9275d92d33ea07d723498413ee/54)
 ![5850d099b265ec601b5f9da309d6ba50 (1)](https://github.com/user-attachments/assets/6e56210d-842a-48b0-aa18-e885ef153b18)
 
 <!-- Your Name and Introduction -->
-## Private Engagements
+## Private Audit Engagements
 ![MacBook Air - 1](https://i.ibb.co/QM29qBn/Group-15-2.jpg)
 
 | Project | Website | Report | Security Rating | 
 |---------|---------|--------|-----------------|
-| Wirex Part 2 | [Wirex](https://wirexapp.com/) | Coming Soon | 9/10 |
+| WeaveVM (L1) | [WeaveVM](https://www.wvm.dev/) | N/A | N/A |
 | | | | |
-| Humanity Protocol | [Humanity Protocol](https://www.humanity.org/) | Coming Soon | 9/10 |
+| Beraly | [Beraly](https://www.berally.io/) | [Report](https://drive.google.com/file/d/1YquzDEUq44Y95J9kIUOc_B4iXRfOGwAT/view) | N/A |
+| | | | |
+| Twin Finance | https://twin.finance/ | [Report](https://drive.google.com/file/d/1t1xV2EnqgyeY0aUIn5bhuldlr9ejAwGu/view) | N/A |
+| | | | |
+| Wirex Part 2 | [Wirex](https://wirexapp.com/) | [Report](https://drive.google.com/file/d/1RMWk_Co9C1VO3QVEfFLlM5NMikKYlDP0/view) | 9/10 |
+| | | | |
+| Humanity Protocol | [Humanity Protocol](https://www.humanity.org/) | [Report](https://drive.google.com/file/d/1DjqMvnP2hZGEckFqjRUHh2wkcHUTDNsV/view) | 9/10 |
 | | | | |
 | Juicebox V4 Round 2 | [JuiceBox](https://juicebox.money) | Coming Soon | 8/10 |
 | | | | |
@@ -31,8 +37,9 @@
 | | | | |
 | Zero Finance | https://zerog.finance/ | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/08-ZeroFinance.md) | 7.8/10 |
 | | | | |
-| Wirex | https://wirexapp.com/ | [Report](https://github.com/0xnirlin/Private-Audits/blob/main/09-SUB7_REPORT_Wirex%20Contracts_20240604.pdf) | N/A |
+| Wirex | https://wirexapp.com/ | [Report (Old)](https://drive.google.com/file/d/1yD4GJtH7lu_zlWYx0Af8oAGthV19_2cS/view) | N/A |
 | | | | |
+
 
 
 
