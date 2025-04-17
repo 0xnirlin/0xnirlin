@@ -1,9 +1,4 @@
-# Every Thing Blockchain | Solana Turbine Graduate | Uniswap Certified
-
-## Certified from Uniswap 
-[On-chain NFT Certificate Link](https://opensea.io/assets/matic/0x483189819b48cf9275d92d33ea07d723498413ee/54)
-![Uniswap Certificate](https://github.com/user-attachments/assets/6e56210d-842a-48b0-aa18-e885ef153b18)
-
+# Every Thing Blockchain | Solana Turbine SVM Researcher | Uniswap Certified
 
 ## 🔐 Private Audit Engagements
 
@@ -55,6 +50,10 @@
 | | | |
 | Axelar | Code4rena | 6th |
 | | | |
+
+## Certified from Uniswap 
+[On-chain NFT Certificate Link](https://opensea.io/assets/matic/0x483189819b48cf9275d92d33ea07d723498413ee/54)
+![Uniswap Certificate](https://github.com/user-attachments/assets/6e56210d-842a-48b0-aa18-e885ef153b18)
 
 *These achievements demonstrate my expertise in identifying critical vulnerabilities and providing valuable insights across various blockchain projects.*
 
