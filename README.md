@@ -84,7 +84,7 @@ I occasionally write Solana research at [accelaratedcurve.substack.com](https://
 ## 📫 Connect With Me
 
 You can reach me at:
-- [Telegram](https://t.me/nirlinsec)
+- [Telegram](https://t.me/nirlinsecurity)
 - [Email](mailto:0xnirlin@gmail.com)
 
 ---
